@@ -1,0 +1,32 @@
+.heading {
+    font-size: 21px;
+    width: 100%;
+    box-shadow: 5px 5px 6px rgb(208, 236, 237);
+}
+
+.note {
+    font-size: 14px;
+    color: black;
+    padding: 10px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: skyblue;
+    color: darkslategrey;
+    text-align: center;
+    line-height: 3
+}
+
+body {
+    background-image: linear-gradient(rgb(0, 0, 112), rgb(1, 1, 115), rgb(0, 0, 166));
+}
+
+canvas {
+    border: 5px ridge skyblue;
+    box-shadow: 5px 5px 8px rgb(208, 236, 237);
+    border-radius: 30px;
+    margin-top: 35px;
+}
